@@ -1,0 +1,26 @@
+.App {
+  text-align: left;
+}
+
+.App-logo {
+  height: 80px;
+}
+
+.App-header {
+  background-color: #f8f8f8;
+  height: 160px;
+  padding: 10px;
+  color: #000000;
+}
+
+.App-title {
+  font-size: 1.5em;
+  text-align: center;
+}
+
+.App-intro {
+  font-size: large;
+}
+.addTestButton {
+  background-color: #7cac2f;
+}
